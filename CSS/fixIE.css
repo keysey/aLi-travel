@@ -1,0 +1,57 @@
+div,.page,.head-left-bottom,.contact-more,.head-right-pic2,.top-left,.top-right,.tab-content-head,.hot-pic,.head-daily-pic{
+	*overflow: hidden;
+	*zoom: 1;
+	*vertical-align: top;
+}
+.span,.shoujia2{
+	*display: inline;
+	*overflow: hidden;
+}
+img{
+	*vertical-align: top;
+}
+a,select{
+*overflow: hidden;	
+}
+.tab-item,.makesure,.modules8-right,.modules8-left{
+	display: inline;
+	*zoom: 1;
+	*overflow: hidden;
+	
+}
+.start-city,.start-city-pic,.start-city-right {
+	*zoom: 1;
+	display: inline;
+ 	*overflow: hidden;
+ 	*vertical-align: top;	
+}
+.hot-place-text,.hot-place-txt{
+	*display: inline;
+	*overflow: hidden;
+	*zoom: 1;
+}
+.jiawei33-content-txtdata{
+	*display: inline;
+	*overflow: hidden;
+	*zoom: 1;
+}
+.ticket-pic-safe,.ticket-modules3-left,.ticket-modules8-left,.ticket-product-box{
+	*overflow: hidden;
+	*display: inline;
+}
+.shopquan-box,.shopquan-sum1,.shopquan-sum1-txt,.shopquan-line{
+	*display: inline;
+	*overflow: hidden;
+	*vertical-align: top;
+}
+.jiawei2-content-box{
+	*overflow: hidden;
+	*zoom: 1;
+	*vertical-align: top;
+}
+.ticket-box-pic{
+	*vertical-align: top;
+	*overflow: hidden;
+	*zoom: 1;
+	*display: inline;
+}

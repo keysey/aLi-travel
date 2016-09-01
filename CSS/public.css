@@ -1,0 +1,334 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+	*zoom: 1;
+}
+.db{
+	display: block;
+}
+.mar0{
+	margin: 0 auto;
+}
+.tab-content-head li,.tab-content-head ul{
+	float: left;
+}
+.pd28{
+	padding-right: 28px;
+}
+.pr{
+	position: relative;
+}
+.pa{
+	position: absolute;
+}
+.modules2{
+	width: 1190px;
+	height: 568px;
+}
+.modules3{
+	width: 1190px;
+	height: 538px;
+}
+.modules4{
+	width: 1190px;
+	height: 568px;
+}
+.modules5{
+	width: 1190px;
+	height: 558px;
+}
+.modules6{
+	width: 1190px;
+	height: 538px;
+}
+.modules7{
+	width: 1190px;
+	height: 680px;
+}
+.modules8{
+	width: 1190px;
+	height: 166px;
+	border-top: 3px solid #3ea3ff;
+}
+.modules9{
+	width: 1190px;
+	height: 109px;
+	border-top: 1px solid #e8e8e8;
+}
+.bot-pic{
+	width: 1190px;
+	height: 10px;
+	background: url(../Image/a6.png) repeat-x 0px bottom;
+}
+.line4{
+	background: url(../Image/line4.png) no-repeat right 0px;
+	padding-right: 7px;
+	margin-right: 6px;
+	display: inline-block;
+}
+.pr5{
+	padding-right: 5px;
+}
+.item-end{
+	color: #6c6c6c;
+}
+.line5{
+	background: url(../Image/line5.png) no-repeat right 0px;
+	padding-right: 8px;
+	margin-right: 7px;
+	display: inline-block;
+}
+.mag0{
+	margin-right: 0px;
+}
+.marr5{
+	margin-right: 5px;
+}
+.marr10{
+	margin-right: 10px;
+}
+.marr11{
+	margin-right: 11px;
+}
+.marr16{
+	margin-right: 16px;
+}
+.marr19{
+	margin-right: 19px;
+}
+.mar20{
+	margin-right: 20px;
+}
+.mar21{
+	margin-right: 21px;
+}
+.marr25{
+	margin-right: 25px;
+}
+.mar27{
+	margin-right: 27px;
+}
+.paddr40{
+	margin-right: 40px;
+}
+.margbo0{
+	margin-bottom: 0px;
+}
+.margbotm10{
+	margin-bottom: 10px;
+}
+.margbotm32{
+	margin-bottom: 32px;
+}
+.marl9{
+	margin-left: 9px;
+}
+.marl11{
+	margin-left: 11px;
+}
+.heig{
+	margin-left: 10px;
+}
+.magl14{
+	margin-left: 14px;
+}
+.margl44{
+	margin-left: 44px;
+}
+.paddr0{
+	padding-right: 0px;
+}
+.paddb2{
+	padding-bottom: 2px;
+}
+.paddb10{
+	padding-bottom: 10px;
+}
+.paddb15{
+	padding-bottom: 15px;
+}
+.paddb16{
+	padding-bottom: 16px;
+}
+.pdtp7{
+	padding-top: 7px;
+}
+.padtp10{
+	padding-top: 10px;
+}
+.padtp11{
+	padding-top: 11px;
+}
+.pad-10 {
+	padding-right: 0px;
+}
+.paddr6{
+	padding-right: 6px;
+}
+.paddr8{
+	padding-right: 8px;
+}
+.paddr10{
+	padding-right: 10px;
+}
+.paddr15{
+	padding-right: 15px;
+}
+.paddr16{
+	padding-right: 16px;
+}
+.paddr17{
+	padding-right: 17px;
+}
+.paddr20{
+	padding-right: 20px;
+}
+.paddrg23{
+	padding-right: 23px;
+}
+.paddrg24{
+	padding-right: 24px;
+}
+.paddrg25{
+	padding-right: 25px;
+}
+.paddrg29{
+	padding-right: 29px;
+}
+.paddrg30{
+	padding-right: 30px;
+}
+.paddr63{
+	padding-right: 63px;
+}
+.paddr67{
+	padding-right: 67px;
+}
+.paale9{
+	padding-left: 9px;
+}
+.paddl15{
+	padding-left: 15px;
+}
+.paddl21{
+	padding-left: 21px;
+}
+.paddl65{
+	padding-left: 65px;
+}
+.heigh-10{
+	height: 504px;
+}
+.heig484{
+	height: 484px;
+}
+.text-cen{
+	text-align: center;
+}
+/*hotel apart*/
+.hotel-modules1{
+	width: 1190px;
+	height: 430px;
+}
+.line8{
+	width: 1px;
+	height: 14px;
+	background: #88afc8 ;
+	margin: 3px 15px 4px 15px;
+}
+.hotel-modules2{
+	width: 1190px;
+	height: 460px;	
+}
+.marleft{
+	margin-left: 12px;
+}
+.hotel-modules3{
+	width: 1190px;
+	height: 280px;
+}
+.hotel-modules4{
+	width: 1190px;
+	height: 570px;
+}
+.hotel-modules5{
+	width: 1190px;
+	height: 570px;
+}
+.hotel-modules6{
+	width: 1190px;
+	height: 371px;
+}
+.hotel-modules7{
+	width: 1190px;
+	height: 247px;
+}
+.ticket-modules1{
+	width: 990px;
+	height: 334px;
+	background:#ffffff;
+	border-bottom:1px solid #dedede ;
+	margin-bottom: 16px;
+}
+.marl0{
+	margin-left: 0px;
+}
+.ticket-modules2{
+	width: 990px;
+	height: 296px;
+	background:#ffffff;
+	border-bottom: 1px solid #dedede ;
+	margin-bottom: 16px;
+}
+.ticket-modules3{
+	width: 990px;
+	height: 154px;
+	border-bottom:1px solid #dedede ;
+	margin-bottom: 16px;
+	background: #ffffff;
+}
+.padr58{
+	padding-right: 58px;
+}
+.padr57{
+	padding-right: 57px;
+}
+.paddb6{
+	padding-bottom: 6px;
+}
+.ticket-modules4{
+	width: 915px;
+	height: 100px;
+	padding: 27px 45px 27px 30px;
+	border-bottom:1px solid #dedede ;
+	background:#ffffff;
+	margin-bottom: 16px;
+}
+.ticket-modules5{
+	width: 929px;
+	height: 126px;
+	padding: 6px 31px 30px 30px;
+	background: #ffffff;
+	border-bottom:1px solid #dedede ;
+	margin-bottom: 16px;
+}
+.ticket-modules6{
+	width: 990px;
+	height: 480px;
+	border-bottom: 1px solid #dedede ;
+	margin-bottom: 16px;
+}
+.ticket-modules7{
+	width: 990px;
+	height: 404px;
+	border-bottom: 1px solid #dedede ;
+	margin-bottom: 16px;
+	background: #ffffff;
+}

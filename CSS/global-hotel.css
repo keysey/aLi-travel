@@ -1,0 +1,801 @@
+.hotel-modules1-head{
+	width: 950px;
+	height: 21px;
+	padding: 6px 0px 5px 240px;
+	background: #e4f4ff;
+}
+.hotel-modules1-head-txt1,.hotel-modules1-head-txt2{
+	height: 20px;
+	padding: 1px 6px 0px 4px;
+	font: 12px/20px"宋体";
+	color: #23516e;
+}
+.hotel-modules1-head-txt1{
+	margin-right: 5px;
+}
+.hotel-modules1-head .active, .hotel-modules1-head-txt2:hover{
+	background-color: #446681;
+	color: #ffffff;
+}
+.grenn-n{
+	width: 9px;
+	height: 11px;
+	background: url(../Image/xuebitu.png) no-repeat 0px -374px;
+	top: -10px;
+	right: -3px;
+}
+.hotel-modules1-content{
+	width: 1190px;
+	height: 318px;
+	padding-top: 10px;
+}
+.hotel-modules1-content-left{
+	width: 488px;
+	height: 318px;
+	border: 1px solid #d2d2d2;
+}
+.hotel-modules1-bottom{
+	width: 1190px;
+	height: 49px;
+	border-bottom: 1px solid #dee7f0;
+	margin-bottom: 20px;
+}
+.hotel-modules2-left{
+	width: 290px;
+	height: 444px;
+	padding-bottom: 16px;
+	margin-right: 10px;
+}
+.hotel-modules2-right{
+	width: 890px;
+	height: 455px;
+	padding-bottom: 5px;
+}
+.modules1-content-left-head{
+	width: 488px;
+	height: 42px;
+	border-bottom: 1px solid #e3e6ea;
+	margin-bottom: 10px;	
+}
+.line21{
+	width: 1px;
+	height: 15px;
+	background-color:#dcdde0;
+	margin: 14px 0px 13px 0px;
+}
+.modules1-content-left-num1{
+	width: 84px;
+	height: 32px;
+	font: bold 12px/32px "宋体";
+	padding-bottom: 5px;
+	margin: 5px 0px 0px 15px;
+	color: #13334d;
+}
+.modules1-content-left-num2{
+	width: 55px;
+	height: 32px;
+	font: bold 12px/32px "宋体";
+	padding-bottom: 7px;
+	margin-top: 5px;
+	color: #13334d;
+}	
+.modules1-content-left-txt{
+	margin-left: 0px;
+	padding-left: 6px;
+}
+.modules1-content-left-txt22{
+	padding-left: 11px;
+}
+.modules1-content-left-head .active,.modules1-content-left-num1,.modules1-content-left-num2:hover{
+	padding-bottom: 3px;
+	border-bottom: 3px solid #5eb5f1;
+}
+.hotel-hot-pic{
+	width: 11px;
+	height: 12px;
+	background: url(../image-hotel/xuebitu.png) no-repeat -125px 0px;
+	top: 3px;
+	right: 5px;
+}
+.modules1-content-go{
+    width: 210px;
+    height: 60px;
+    padding-left: 8px;
+    padding-right: 20px;
+}
+.end-place{
+	width: 210px;
+    height: 20px;
+    font: 12px/20px "宋体";
+    color: #73787f;
+}
+.start-place{
+    width: 208px;
+    height: 28px;
+    background: url(../image-hotel/a2.png) repeat-x;
+    border: 1px solid #c7d1e4;
+    border-radius: 1px;
+}
+.start-place-txt{
+	width: 53px;
+    height: 14px;
+    font: 12px/14px "宋体";
+    color: #a1a1a1;
+    padding-top: 1px;
+    top: 6px;
+    right: 0px;
+}
+.start-place-pic,.start-place-pic2{
+	width: 20px;
+    height: 15px;
+    top: 0px;
+    right: 4px;
+}
+.start-place-pic{
+	background: url(../image-hotel/xuebitu.png) no-repeat -136px 0px;
+}
+.start-place-pic2{
+	background: url(../image-hotel/xuebitu.png) no-repeat -156px 0px;
+}
+.form-inf1, .form-inf2{
+    width: 208px;
+    height: 28px;
+    font: 14px/28px "宋体";
+}
+.form-inf1{
+	color: #000000;
+}
+.form-inf2{
+	color: #757575;
+}
+.xinyongzhu-pic{
+	width: 488px;
+    height: 116px;
+    background: url(../image-hotel/a3.png) no-repeat;
+}
+.find-hotel{
+	width: 134px;
+    height: 36px;
+    border: 1px solid #63b8f0;
+    background-color: #63b8f0;
+    font: 16px/36px "宋体";
+    color: #ffffff;
+    border-radius: 2px;
+    text-align: center;
+    padding-bottom: 2px;
+    right: 20px;
+    top: 18px;
+}
+.find-hotel2{
+	width: 100px;
+    height: 22px;
+    font: 12px/22px "宋体";
+    color: #58b1f3;
+    right: 23px;
+    bottom: 9px;
+}
+.modules1-left-bottom{
+	width: 488px;
+    height: 28px;
+    border-top: 1px solid #e2e6eb;
+    background: #f1f2f6;
+}
+.modules1-left-bottom-pic{
+	width: 13px;
+    height: 19px;
+	background: url(../image-hotel/xuebitu.png) no-repeat -176px 0px;
+	top: 4px;
+	left: 18px;
+}
+.modules1-left-bottom-txt{
+	font: bold 12px/26px "宋体";
+	padding-left: 38px;
+}
+.hotel-modules1-content-right,.hotel-modules1-right-form,.hotel-modules1-right-pic{
+	width: 700px;
+}
+.hotel-modules1-content-right{
+	height: 320px;
+}
+.hotel-modules1-right-form,.hotel-modules1-right-pic{
+	height: 255px;
+}
+.hotel-modules1-right-bg{
+	width: 112px;
+	height: 18px;
+	bottom:14px;
+	right: 5px;
+}
+.modules1-right-bg-num{
+	width: 18px;
+	height: 18px;
+	border-radius: 8px;
+	background-color: #8b8b8b;
+	margin-right: 10px;
+}
+.hotel-modules1-right-bg .active,.modules1-right-bg-num:hover{
+	background-color: #ff8800;
+}
+.hotel-modules1-right-sure{
+	width: 699px;
+	height: 63px;
+	border: 1px solid #d2d2d2;
+	border-left: 0px;
+}
+.hotel-right-sure-pic{
+	width: 280px;
+	height: 63px;
+}
+.hotel-right-sure-txt{
+	width: 419px;
+	height: 63px;
+}
+.t-insure-item{
+	width: 137px;
+	height: 38px;
+	padding-top: 14px;
+	padding-bottom: 11px;
+}
+.t-insure-item1{
+	height: 38px;
+	border-right: 1px solid #c7d3df;
+}
+.faster-sure,.faster-sure2{
+	width: 15px;
+	height: 15px;
+	margin-bottom: 5px;
+	background: url(../image-hotel/xuebitu.png) no-repeat -188px 0px;
+	top: 0px;
+}
+.faster-sure{
+	left: 60px;
+}
+.faster-sure2{
+	left: 62px;
+}
+.faster-sure-text{
+	width: 137px;
+	height: 18px;
+	font: 12px/18px "宋体";
+	color: #3b5d84;
+	text-align: center;
+	bottom: 0px;
+	left: 0px;
+}
+.t-insure-item2{
+	width: 139px;
+	height: 38px;
+	padding-top: 14px;
+	padding-bottom: 11px;
+}
+.t-insure-item22{
+	height: 38px;
+}
+.hotel-modules2-left-head{
+	width: 282px;
+	height: 36px;
+	font: 16px/36px "宋体";
+	color: #ff684d;
+	border-bottom: 2px solid #ff684d;
+	padding-left: 8px;
+}
+.hotel-modules2-left-content{
+	width: 274px;
+	height: 406px;
+	padding-bottom: 16px;
+}
+.hotel-modules2-left-subhead{
+	width: 290px;
+	height: 44px;
+	margin-top: 1px;
+	font: 12px/44px "宋体";
+	color: #13334d;
+	padding-left: 8px;	
+}
+.hotel-modules2-left-item{
+	width: 290px;
+	height: 361px;
+}
+.modules2-left-item-img{
+	width: 288px;
+	height: 216px;
+	border: 1px solid #f4f6f5;
+}
+.modules2-left-item-inf1{
+	width: 290px;
+	height: 42px;
+	background: #dddddd;
+}
+.modules2-left-item-inf2{
+	width: 274px;
+	height: 42px;
+	background: #ff684d;
+	padding: 6px 8px 3px 8px;
+	font: 14px/21px "宋体";
+	color: #ffffff;
+}
+.modules2-left-item-inf3{
+	width: 288px;
+	height: 50px;
+	border: 1px solid #dddddd;
+	border-top: 0px;
+}
+.modules2-left-item-form{
+	width: 202px;
+	height: 50px;
+	padding-left: 7px;
+}
+.modules2-item-form-a{
+	width: 90px;
+	height: 50px;
+	font: 20px/50px "宋体";
+	color: #ff5741;
+}
+.modules2-item-form-b{
+	width: 39px;
+	height: 38px;
+	padding-top: 12px;
+	font: 12px/38px "宋体";
+	color: #909090;
+}
+.sales-price{
+	width: 72px;
+	height: 40px;
+	font: 10px/40px "宋体";
+	color: #909090;
+	margin-top: 10px;
+	text-decoration: line-through;
+}
+.sales-out{
+	width: 79px;
+	height: 40px;
+	font: 12px/40px "宋体";
+	color: #2d4b5f;
+	margin-top: 10px;
+}
+.hotel-modules2-right-head{
+	width: 882px;
+	height: 36px;
+	font: 16px/36px "宋体";
+	color: #ff684d;
+	border-bottom: 2px solid #ff684d;
+	padding-left: 8px;
+}
+.hotel-modules2-right-content{
+	width: 890px;
+	height: 406px;
+	padding-bottom: 16px;
+}
+.hotel-position-city{
+	width: 868px;
+	height: 22px;
+	padding: 12px 9px 0px 13px;
+}
+.hotel-position-city2-more{
+	width: 80px;
+	height: 22px;
+	margin-top: 3px;
+	font: 12px/22px "宋体";
+	color: #2d4b5f;
+	text-align: right;
+}
+.hotel-position-city2{
+	width: 387px;
+	height: 22px;
+}
+.hotel-city-more{
+	width: 44px;
+	height: 22px;
+	text-align: center;
+	margin-right:4px ;
+	color: #2d4b5f;
+	font: 12px/22px "宋体";
+}
+.hotel-position-city2 .active, .hotel-city-more:hover{
+	background-color: #15bcbe;
+	color: #ffffff;
+}
+.pictures-form{
+	width: 890px;
+	height: 372px;
+}
+.hotel-position-picture{
+	width: 215px;
+	height: 145px;
+}
+.hotel-position-city2-pic,.hotel-position-city2-pic4{
+	width: 215px;
+	height: 175px;
+	margin-right: 10px;
+	margin-top: 11px;
+}
+.hotel-position-city2-pic4{
+	margin-right: 0px;
+}
+.hotel-pic-bottom-box{
+	width: 215px;
+	height: 28px;
+	bottom: 0px;
+	left: 0px;
+}
+.hotel-pic-bottom-bg{
+	width: 215px;
+	height: 100%;
+	background-color: #3a3428;
+	opacity: 0.4;
+	*filter: alpha(opacity=40);
+}
+.hotel-pic-bottom-box:hover,.hotel-pic-text1:hover{
+	height: 54px;
+}
+.hotel-pic-text1{
+	width: 215px;
+	height: 28px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+.text1-hotel-pic{
+	height: 26px;
+	padding: 2px 0px 0px 8px;	
+	font: 12px/26px "宋体";
+	color: #ffffff;
+}
+.hotel-tuan-box{
+	width: 213px;
+	height: 29px;
+	border: 1px solid #dddddd;
+	border-top: 0px;
+}
+.hotel-tuan-box-price{
+	width: 148px;
+	height: 29px;
+	padding-left: 7px;
+}
+.hotel-tuan-box-price-a{
+	width: 60px;
+	height: 26px;
+	font: 14px/26px "宋体";
+	color: #ff5741;
+	padding-top: 3px;
+}
+.hotel-tuan-box-price-b{
+	width: 39px;
+	height: 22px;
+	padding-top: 7px;
+	font: 12px/22px "宋体";
+	color: #909090;
+}
+.tuan-price{
+	width: 49px;
+	height: 22px;
+	font: 10px/22px "宋体";
+	color: #909090;
+	margin-top: 7px;
+	text-decoration: line-through;
+}
+.tuan-out{
+	width: 58px;
+	height: 26px;
+	font: 12px/26px "宋体";
+	color: #2d4b5f;
+	margin-top: 3px;
+}
+.hotel-modules3-head{
+	width: 1182px;
+	height: 36px;
+	font: 16px/36px "宋体";
+	color: #fdba00;
+	border-bottom: 2px solid #fdba00;
+	padding-left: 8px;
+}
+.hotel-modules3-content{
+	width: 1190px;
+	height: 227px;
+	padding-bottom: 15px;
+	padding-right: 16px;
+}
+.hotel-modules3-content-num1{
+	width: 285px;
+	height: 227px;
+	margin-right: 16px;
+}
+.future-hotel{
+	width: 285px;
+	height: 80px;
+	margin-top: 16px;
+	margin-bottom: 11px;
+}
+.future-hotel-text{
+	width: 275px;
+	height: 120px;
+	padding:0px 5px ;
+}
+.future-hotel-text-form1{
+	width: 275px;
+	height: 30px;
+}
+.future-hotel-text-form1:hover{
+	background-color: #f7f8f8;
+}
+.hotel-name{
+	width: 215px;
+	height: 30px;
+	font: 12px/30px "宋体";
+	color: #3f3f3f;
+}
+.hotel-price{
+	width: 60px;
+	margin-top: 5px;
+	text-align: right;
+	color: #ff5741;
+}
+.hotel-modules4-head,.hotel-modules5-head,.hotel-modules6-head{
+	width: 1182px;
+	height: 36px;
+	font: 16px/36px "宋体";
+	padding-left: 8px;
+}
+.hotel-modules4-head{
+	color: #3fb3fb;
+	border-bottom: 2px solid #3fb3fb;
+}
+.hotel-modules5-head{
+	color: #15bcbe;
+	border-bottom: 2px solid #15bcbe;
+}
+.hotel-modules6-head{
+	color: #af84d7;
+	border-bottom: 2px solid #af84d7;
+}
+.hotel-modules6-head-txt{
+	width: 80px;
+	height: 36px;
+	font: 16px/36px "宋体";
+	padding-left: 8px;
+}
+.hotel-modules4-content{
+	width: 1190px;
+	height: 516px;
+	margin-bottom: 16px;
+}
+.hotel-modules4-city{
+	width: 1173px;
+	height: 22px;
+	padding: 12px 9px 0px 14px;
+}
+.hotel-modules4-city-txt{
+	font: 12px/22px "宋体";
+	color: #13334d;
+	padding-right: 10px;
+}
+.hotel-modules4-city2-more{
+	width: 80px;
+	height: 22px;
+	margin-top: 3px;
+	font: 12px/22px "宋体";
+	color: #2d4b5f;
+	text-align: right;
+}
+.hotel-modules4-city-form{
+	width: 294px;
+	height: 22px;
+}
+.hotel-city-form-more,.hotel-city-form6-more{
+	width: 44px;
+	height: 22px;
+	text-align: center;
+	color: #2d4b5f;
+	font: 12px/22px "宋体";
+}
+.hotel-city-form-more{
+	margin-right:5px;
+}
+.hotel-city-form6-more{
+	margin-right:9px;
+}
+.hotel-modules4-city-form .active, .hotel-city-form-more:hover{
+	background-color: #3fb3fb;
+	color: #ffffff;
+}
+.hotel-modules6-city-form .active, .hotel-city-form6-more:hover{
+	background-color: #af84d6;
+	color: #ffffff;
+}
+.hotel-modules4-inf{
+	width: 1190px;
+	height: 472px;
+	padding-bottom: 16px;
+}
+.hotel-modules4-inf-num1{
+	width: 230px;
+	height: 231px;
+	margin-top: 10px;
+	margin-right: 10px;
+	transition: 1s;
+	transform:translateX(0px);
+}
+.hotel-modules4-inf-num1:hover{
+	transform:translateX(-5px);
+}
+.hotel-modules4-inf-pic{
+	width: 230px;
+	height: 160px;
+}
+.hotel-modules4-inf-txt{
+	width: 228px;
+	height: 70px;
+    border: 1px solid #dddddd;
+    border-top: 0px;
+}
+.hotel-modules4-name{
+	width: 212px;
+	height: 22px;
+    font-size: 14px;
+    padding: 8px 8px 5px 8px; 
+    color: #2d4b5f;
+}
+.hotel-modules4-price{
+	height: 35px;
+    padding: 0px 8px 0px 8px;
+}
+.price{
+	width: 80px;
+	height: 28px;
+	padding-bottom: 7px;
+	font: 20px/28px "宋体";
+	color: #ff5741;
+}
+.level{
+	width: 55px;
+	height: 34px;
+	padding-top: 1px;
+	font: 12px/34px "宋体";
+	color: #2d4b5f;
+}
+.hotel-modules6-city-form{
+	width: 309px;
+	height: 22px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+.hotel-modules6-content{
+	width: 1190px;
+	height: 316px;
+	margin-bottom: 17px;
+}
+.hotel-modules6-content1{
+	width: 1190px;
+	height: 206px;
+	margin-top: 12px;
+}
+.modules6-content1-part1,.modules6-content2-part1{
+	width: 13px;	
+	background: #af84d7;
+	font: 14px/25px "宋体";
+	border-radius: 0px 1px 1px 0px;	
+	color: #FFFFFF;
+}
+.modules6-content1-part1{
+	height: 147px;
+	padding: 59px 13px 0px 12px;
+}
+.modules6-content2-part1{
+	height: 61px;
+	padding: 25px 13px 0px 12px;
+}
+
+.modules6-content1-part2,.modules6-content2-part2{
+	width: 1151px;
+	border: 1px solid #dddddd;
+	border-left: 0px;
+	padding-bottom: 8px;
+}
+.modules6-content1-part2{
+	height: 196px;	
+}
+.modules6-content2-part2{
+	height: 76px;
+}
+.modules6-content1-txt1,.modules6-content2-txt1{
+	padding: 10px 10px 0px 20px;
+}
+.modules6-content1-txt1{
+	height: 88px;
+}
+.modules6-content2-txt1{
+	height: 66px;
+}
+.modules6-content1-num,.modules6-content2-num{
+	height: 22px;
+	font: bold 12px/22px "宋体";
+	color: #3f3f3f;
+}
+.modules6-content1-txt1,.modules6-content2-txt1,.modules6-content1-num,.modules6-content2-num,.modules6-content1-numtxt,.modules6-content2-numtxt,.modules6-content1-numtxt1,.modules6-content1-numtxt2{
+	width: 257px;
+}
+.modules6-content1-numtxt{
+	height: 66px;
+}
+.modules6-content2-numtxt{
+	height: 44px;
+}
+.modules6-content1-numtxt1{
+	height: 24px;
+}
+.numtxt1{
+	font: 12px/24px "宋体";
+}
+.modules6-content1-numtxt2{
+	height: 42px;
+}
+.numtxt2{
+	font: 12px/21px "宋体";
+}
+.numtxt2:hover,.numtxt1:hover,.content2-numtxt2:hover{
+	color: #3ea3ff;
+}
+.hotel-modules6-content2{
+	width: 1190px;
+	height: 86px;
+	margin-top: 12px;
+}
+.content2-numtxt2{
+	font: 12px/22px "宋体";
+	padding-right: 15px;
+}
+.hotel-modules7-head{
+	width: 1182px;
+	height: 35px;
+	font: 16px/35px "宋体";
+	padding-left: 9px;
+	color: #475d6b;
+}
+.hotel-modules7-content{
+	width: 1190px;
+	height: 212px;
+}
+.hotel-modules7-part1{
+	width: 1188px;
+	height: 78px;
+	border: 1px solid #dddddd;
+}
+.hotel-modules7-part2{
+	width: 1190px;
+	height: 80px;
+	margin-bottom: 26px;
+	margin-top: 26px;
+}
+.left-picture{
+	width: 38px;
+	height: 78px;
+	border-right: 1px solid #dddddd;
+}
+.left-pic{
+	width: 11px;
+	height: 18px;
+	background: url(../image-ticket/xuebitu.png) no-repeat -204px 0px;
+	top: 29px;
+	left: 14px;
+}
+.super-start-hotel{
+	width: 100px;
+	height: 78px;
+	border-right: 1px solid #dddddd;
+}
+.left-picture2{
+	width: 38px;
+	height: 78px;
+}
+.left-pic2{
+	width: 11px;
+	height: 18px;
+	background: url(../image-ticket/xuebitu.png) no-repeat -215px 0px;
+	top: 29px;
+	left: 14px;
+}
+.modules7-part2-pic{
+	width: 290px;
+	height: 80px;
+	margin-right: 10px;
+}
